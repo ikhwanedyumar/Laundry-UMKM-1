@@ -23,7 +23,7 @@ export interface AddonService {
 
 export const STORE_INFO = {
   appName: 'LaundryCalc',
-  name: 'Laundry UMKM',
+  name: 'Laundry Tarmac SL6',
   whatsappNumber: '6281234567890',
   pickupRadiusMaxKm: 5,
   minimumChargeKg: 3.0,
